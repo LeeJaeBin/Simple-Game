@@ -62,9 +62,6 @@
     <ClCompile Include="CChild.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="CScoreSheet.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="CEnterName.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -75,6 +72,9 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="CModeDesc.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CScoreSheet.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
